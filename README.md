@@ -11,6 +11,10 @@ Don't know any thing what about i'm going to do.
 3) rollback if the project take a stupid path even if it hurts
 4) and the most important i'll try to use AI only in extrem steps cuz chazzgpd fried my brain
 
+## ideas
+1) i'think it's a good idea to have a CICD, but no idea how it works, gonna snatch something from my work(not for now)
+2) also at my free time at my SE internship i'could draw some diagrams and list some idea
+
 ## Log
 
 ### Day 1 (Thu 20 aug) :
