@@ -8,6 +8,7 @@ engagement :
 1)work every day for min 30min a day even if i start a full time job
 2)try to document each step and logic
 3)rollback if the project take a stupid path even if it hurts
+4)and the most important i'll try to use AI only in extrem steps cuz chazzgpd fried my brain
 //Thu 20 aug :
 Day1)
   i'll start rethinking the custom spring core architecture about : bean creation, contexte management, and injection
