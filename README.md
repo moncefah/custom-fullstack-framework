@@ -25,3 +25,9 @@ and the use of annotaion (try to find good names for them) but it's enough for t
 i tried to visualise what the project could look like but i relized i have no idea what i'm doing
 also i think i'll focus 100% at developing the Core
 spended a lot of time just to setup the project and downloading java25 with homebrew, but it's cool
+
+### Day 3
+i've forget to work on it today, it's 11pm, the thing i'm stuck about how can i get the "classes details" or infos,
+heard something about class loader, and something about using Current thread, no idea of both stuff so i'll try to lear how they work
++ gotta add a personal doc with stuff i learn
++ nothing special, leaen about java main thread, how are classes are reprenseted in object form, lil bit about class loader, and stuck with annotaion, when i Class.getAnnotations() the list is empty ?
