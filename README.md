@@ -31,3 +31,7 @@ i've forget to work on it today, it's 11pm, the thing i'm stuck about how can i 
 heard something about class loader, and something about using Current thread, no idea of both stuff so i'll try to lear how they work
 + gotta add a personal doc with stuff i learn
 + nothing special, leaen about java main thread, how are classes are reprenseted in object form, lil bit about class loader, and stuck with annotaion, when i Class.getAnnotations() the list is empty ?
+
+### Day (after the flue)
+had a crazy flue these last days + it was the end of the internship (depression) now i'm back with some free time
+

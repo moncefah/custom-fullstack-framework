@@ -7,3 +7,21 @@ IoC Management
 1) Creat annotaion
 2) get the infos for annotaions putted in the code program
 
+technical requirment:
+
+
+
+
+non-technical requirment:
+
+1) understand how spring sequencly do to read classes, get annotaion, inject dependencys ...
+2) do a very lite spring diagram (simple architecture)
+3) think how can i implement it
+
+
+
+1) first thing i m trying to see how does spring work
+
+to simplify :
+spring "build" a map of your code and get the annotaions with reflexion
+
