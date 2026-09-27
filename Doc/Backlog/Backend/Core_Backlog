@@ -25,3 +25,6 @@ non-technical requirment:
 to simplify :
 spring "build" a map of your code and get the annotaions with reflexion
 
+assume that the core gonna get the blue print and pass it to the context and it will build the beans + inject dep
+
+
